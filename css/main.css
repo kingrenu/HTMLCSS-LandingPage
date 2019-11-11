@@ -7,7 +7,7 @@ ul { padding: 0; margin: 0; list-style: none; }
 nav { padding: 10px 0; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 /***************************************/
-
+/* Utility Classes */
 .container {
     margin: 0 auto;
     max-width: 1170px;
@@ -68,4 +68,25 @@ section {
 .text-primary {
     font-size: 16px;
     color: #364147;
+}
+/* Header & NAv */
+.header-nav{
+    border-bottom: 1px solid #a0a0a0;
+}
+.brand{
+    width: 170px;
+    height:85px;
+    margin-left: -15px;
+    margin-right: 60px;
+}
+.logo{
+    /* Fit within the container */
+    max-width: 100%;
+    height: auto;
+}
+.search-box{
+    width: 330px;
+    height:30px;
+    padding: 6px 12px;
+    border: 1px solid #a0a0a0;
 }
