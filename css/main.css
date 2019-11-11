@@ -133,7 +133,7 @@ section {
 }
 /* Hero, Sales Banner & categories */
 .hero {
-    background-image: '../img/hero.jpg';
+    background-image: url('../img/hero.jpg');
     height: 400px;
     background-size: cover;
     background-position: center center;
