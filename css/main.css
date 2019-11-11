@@ -322,7 +322,7 @@ footer a:hover {
 .instagram {
     background-image: url('./../img/instagram.svg');
 }
-.pinterest{
+.pinterest {
     background-image: url('./../img/pinterest.svg');
 }
 .newsletter .link-header{
@@ -353,8 +353,12 @@ footer a:hover {
     color: #e5e5e5;
     font-size: 16px;
 }
-.ps img{max-width: 230px;}
-.demo {padding: 0 30px; }
+.ps img {
+    max-width: 230px;
+}
+.demo {
+    padding: 0 30px; 
+}
 .demo:before {
     content: "";
     display: block;
