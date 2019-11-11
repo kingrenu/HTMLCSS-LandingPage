@@ -209,7 +209,7 @@ section {
     margin: 50px 0;
     position: relative;
 }
-.full-banner ::before{
+.full-banner :before{
     content: "";
     position: absolute;
     border: 1px solid #ffffff ;
@@ -227,10 +227,9 @@ section {
     background-position: top center;
     min-height: 400px;
 }
-.full-banner-siedbar{
+.full-banner-sidebar{
     flex: 0 0 41.666667%;
     background-color: #364147;
     padding: 30px;
     color: #ffffff;
-
 }
