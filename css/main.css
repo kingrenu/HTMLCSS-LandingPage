@@ -314,18 +314,6 @@ footer a:hover {
     background-size: 23px 23px;
     background-position: center;
 }
-.twitter {
-    background-image: url('./../img/twitter.svg');
-}
-.facebook {
-    background-image: url('./../img/facebook.svg');
-}
-.instagram {
-    background-image: url('./../img/instagram.svg');
-}
-.pinterest {
-    background-image: url('./../img/pinterest.svg');
-}
 .newsletter .link-header{
     font-size: 12px;
     font-weight: 400;
@@ -357,6 +345,24 @@ footer a:hover {
 .ps img {
     max-width: 230px;
 }
+.copyright {
+    flex: 0 0 75%;
+    padding: 10px 0;
+    font-size: 12px;
+    text-align: center;
+}
+.twitter {
+    background-image: url('./../img/twitter.svg');
+}
+.facebook {
+    background-image: url('./../img/facebook.svg');
+}
+.instagram {
+    background-image: url('./../img/instagram.svg');
+}
+.pinterest {
+    background-image: url('./../img/pinterest.svg');
+}
 .demo {
     padding: 0 30px; 
 }
@@ -367,10 +373,4 @@ footer a:hover {
     height: 1px;
     margin: 30px 0;
     background: linear-gradient(to right,#f05a28 0,#e80a89 100%);
-}
-.copyright {
-    flex: 0 0 75%;
-    padding: 10px 0;
-    font-size: 12px;
-    text-align: center;
 }
