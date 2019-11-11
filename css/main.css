@@ -313,7 +313,9 @@ footer a:hover {
     background-size: 23px 23px;
     background-position: center;
 }
-.twitter {background-image: url('./../img/twitter.svg');}
+.twitter {
+    background-image: url('./../img/twitter.svg');
+}
 .facebook {
     background-image: url('./../img/facebook.svg');
 }
