@@ -220,7 +220,7 @@ section {
     /* bring border to the front */
     z-index: 1
 }
-.full-banner-image{
+.full-banner-image {
     flex: 0 0 58.333333%;
     background-image: url('./../img/vista.jpg');
     background-size: cover;
@@ -260,10 +260,8 @@ section {
     letter-spacing: 3px;
 }
 .full-banner-sidebar .btn.btn-default{
-    scroll-margin-top: 50px;
+    margin-top: 50px;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
 }
-
-
