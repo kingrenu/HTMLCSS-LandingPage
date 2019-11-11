@@ -132,6 +132,7 @@ section {
     max-width: 100%;
 }
 /* Hero, Sales Banner & categories */
+
 .hero {
     background-image: url('./../img/hero.jpg');
     height: 400px;
@@ -174,12 +175,12 @@ section {
     line-height: 1;
     text-align: center;
 }
-.banner-text >div:last-child {
+.banner-text > div:last-child {
     font-size: 16px;
     font-weight: 400;
     margin-top: 5px;
 }
-.category-text {
+.category {
     flex: 0 0 25%;
     padding: 0 15px;
 }
