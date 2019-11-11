@@ -36,18 +36,20 @@ section{
 }
 .btn{
     cursor: pointer;
-    border: none;
+    border: 0;
     padding: 6px 12px;
     border-radius: 3px;
     line-height: 1.4;
 }
 .btn-default{
-    background-color: #faa541;
     color: #ffffff;
+    background-color: #faa541;
+
 }
 .btn-primary{
-    background-color: #364147;
     color: #ffffff;
+    background-color: #364147;
+
 }
 .form-control{
     display: block;
