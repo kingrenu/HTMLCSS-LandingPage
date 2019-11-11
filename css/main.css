@@ -313,9 +313,7 @@ footer a:hover {
     background-size: 23px 23px;
     background-position: center;
 }
-.twitter {
-    background-image: url('./../img/twitter.svg');
-}
+.twitter {background-image: url('./../img/twitter.svg');}
 .facebook {
     background-image: url('./../img/facebook.svg');
 }
@@ -355,7 +353,7 @@ footer a:hover {
 }
 .ps img{max-width: 230px;}
 .demo {padding: 0 30px; }
-.demo :before {
+.demo:before {
     content: "";
     display: block;
     widows: 100%;
