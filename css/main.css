@@ -133,7 +133,7 @@ section {
 }
 /* Hero, Sales Banner & categories */
 .hero{
-    background-image: './../img/hero.jpg';
+    background-image: '../img/hero.jpg';
     height: 400px;
     background-size: cover;
     background-position: center center;
@@ -157,6 +157,7 @@ section {
     letter-spacing: 2px;
     font-weight: 700;
     font-size: 21px;
+    margin: 0 0 10px;
 }
 .banner{
     margin: 55px 15px;
