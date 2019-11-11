@@ -265,6 +265,7 @@ section {
     background-position: top center;
     min-height: 400px;
 }
+/* Footer */
 footer {
     display: flex;
     flex-wrap: wrap;
