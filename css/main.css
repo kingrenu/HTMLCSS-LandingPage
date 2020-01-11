@@ -351,6 +351,9 @@ footer a:hover {
     font-size: 12px;
     text-align: center;
 }
+.twitter {
+    background-image: url('./../img/twitter.svg');
+}
 .facebook {
     background-image: url('./../img/facebook.svg');
 }
@@ -370,7 +373,4 @@ footer a:hover {
     height: 1px;
     margin: 30px 0;
     background: linear-gradient(to right,#f05a28 0,#e80a89 100%);
-}
-.twitter {
-    background-image: url('./../img/twitter.svg');
 }
