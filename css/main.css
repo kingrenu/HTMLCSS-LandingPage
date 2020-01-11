@@ -351,18 +351,11 @@ footer a:hover {
     font-size: 12px;
     text-align: center;
 }
-.twitter {
-    background-image: url('./../img/twitter.svg');
-}
-.facebook {
-    background-image: url('./../img/facebook.svg');
-}
-.instagram {
-    background-image: url('./../img/instagram.svg');
-}
-.pinterest {
-    background-image: url('./../img/pinterest.svg');
-}
+.twitter {background-image: url('../img/twitter.svg');}
+.facebook {background-image: url('../img/facebook.svg');}
+.instagram {background-image: url('../img/instagram.svg');}
+.pinterest {background-image: url('../img/pinterest.svg');}
+
 .demo {
     padding: 0 30px;
 }
